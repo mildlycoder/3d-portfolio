@@ -136,7 +136,7 @@ export const experiences = [
             "Redesigned the user interface of Luster Network's learning platform, resulting in a 35% increase in user retention and engagement through enhanced accessibility and interactivity features",
         ],
     },
-    
+
 ];
 
 export const socialLinks = [
@@ -158,4 +158,10 @@ export const socialLinks = [
 ];
 
 export const projects = [
+  {
+    name: "Prava",
+    description: "Products for remittance, compliance, taxes, and cross-border payment",
+    theme: "light",
+    link: "https://www.prava.space"
+  }
 ];
